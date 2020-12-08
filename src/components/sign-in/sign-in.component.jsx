@@ -18,6 +18,7 @@ class SignIn extends React.Component {
   }
 
   handleSubmit = async (event) => {
+    /*preventDefault is called on the event when submitting the form to prevent a browser reload/refresh*/
     event.preventDefault();
 
     const { email, password } = this.state;
