@@ -2,6 +2,8 @@
 
 This project was created with React course https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
+###  [Check app here](https://clothing-react-app-live.herokuapp.com/)
+
 ### Implemented and used features
 
 + Sass
@@ -16,4 +18,4 @@ This project was created with React course https://www.udemy.com/course/complete
   + Heroku: Cloud Application Platform
 + Mobile support
 
-###  [Check app here](https://clothing-react-app-live.herokuapp.com/)
+
