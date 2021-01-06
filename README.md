@@ -16,6 +16,5 @@ This project was created with React course https://www.udemy.com/course/complete
   + Frontend only
 + Deploying to production
   + Heroku: Cloud Application Platform
-+ Mobile support
 
 
