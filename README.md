@@ -2,8 +2,6 @@
 
 This project was created with React course https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
-###  [Check app here](https://clothing-react-app-live.herokuapp.com/)
-
 ### Implemented and used features
 
 + Sass
